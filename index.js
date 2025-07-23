@@ -1,6 +1,4 @@
-let code1;
-
-code1 = 7 + 3;
+let code1 = 7 + 3;
 
 let code2 = (100 - 80) * 2;
 
